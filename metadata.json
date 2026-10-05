@@ -1,0 +1,6 @@
+{
+  "name": "GeoStamp GPS Camera",
+  "description": "Capture photos with real-time GPS geotag stamps, interactive location map, editable address, coordinates, and Plus Code.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
